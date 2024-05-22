@@ -21,6 +21,10 @@ Cette application PHP permet d'uploader un fichier, de le chiffrer, puis de tél
 
 1. Clonez ce dépôt sur votre machine locale.
 
+  
+  
+  ( Pensez à remplacer username dans le lien suivant )
+
    ```sh
    git clone https://github.com/username/encryption.git
    cd repository
