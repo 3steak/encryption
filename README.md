@@ -2,16 +2,6 @@
 
 Cette application PHP permet d'uploader un fichier, de le chiffrer, puis de télécharger le fichier chiffré et la clé de déchiffrement. L'application est construite en utilisant le modèle MVC (Modèle-Vue-Contrôleur).
 
-## Table des Matières
-
-- [Fonctionnalités](#fonctionnalités)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Structure du Projet](#structure-du-projet)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Contribution](#contribution)
-- [Licence](#licence)
-
 ## Fonctionnalités
 
 - Upload de fichiers.
@@ -34,7 +24,6 @@ Cette application PHP permet d'uploader un fichier, de le chiffrer, puis de tél
    ```sh
    git clone https://github.com/username/repository.git
    cd repository
-```
 
 2. Configurez votre serveur web pour servir ce projet. Si vous utilisez Apache, assurez-vous que le module mod_rewrite est activé.
 
