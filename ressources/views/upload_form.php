@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upload et Chiffrement de Fichier</title>
+    <link rel="stylesheet" href="ressources/css/style.css">
+    <title>Upload et Chiffrement de ichier</title>
 </head>
 
 <body>
