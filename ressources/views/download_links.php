@@ -10,8 +10,11 @@
 
 <body>
     <h1>Téléchargement du Fichier Chiffré et de la Clé de Déchiffrement</h1>
-    <p><a href="/crypt/<?= htmlspecialchars($encryptedFileName); ?>" download>Télécharger le fichier chiffré</a></p>
-    <p><a href="/crypt/<?= htmlspecialchars($keyFileName); ?>" download>Télécharger la clé de déchiffrement</a></p>
+    <div class="download-box">
+        <p><a href="/crypt/<?= htmlspecialchars($encryptedFileName); ?>" download>Télécharger le fichier chiffré</a></p>
+        <p><a href="/crypt/<?= htmlspecialchars($keyFileName); ?>" download>Télécharger la clé de déchiffrement</a></p>
+    </div>
+
 </body>
 
 </html>

@@ -8,16 +8,29 @@ body {
 }
 
 h1,
-form {
+form,
+.download-box {
     margin: 20px auto;
 }
 
-form {
+form,
+.download-box {
     max-width: 800px;
     padding: 20px;
     background-color: #9f7c7c;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 
+    p {
+        margin: 2% auto;
+    }
 
+    a {
+        color: rgba(0, 0, 0, 0.75);
+        text-decoration: none;
+        background-color: #f0f0f0;
+        padding: 10px;
+        border-radius: 10px;
+
+    }
 }
