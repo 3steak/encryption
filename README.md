@@ -29,6 +29,7 @@ Cette application PHP permet d'uploader un fichier, de le chiffrer, puis de tél
    git clone https://github.com/username/encryption.git
    cd repository
 
+
 2. Configurez votre serveur web pour servir ce projet. Si vous utilisez Apache, assurez-vous que le module mod_rewrite est activé.
 
 3. Placez le projet dans un sous-répertoire appelé crypt sur votre serveur web.
